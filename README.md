@@ -13,7 +13,7 @@ Let's connect and collaborate on projects that harness the power of data and mac
 
 ## Get in Touch
 - 📧 Email: bauricenafack@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/baurice-nafack/ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/baurice-nafack/) 
 - 🐦 Twitter:
 
 ## Side projects
