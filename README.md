@@ -33,5 +33,9 @@ efficient deployment of the developed application and its components.
 •Continuous Integration Setup: Implemented a robust continuous integration pipeline
 using Jenkins to streamline development, testing, and deployment processes.
 
+### [Speech data collection system](https://sueza.eparchemin.com/contribute)
+• Developed a multilingual speech data collection system to facilitate
+creation of an adaptive speech recognition system utilizing pre-trained models.
+
 # Tags
 #MachineLearning #DataEngineering #MLOps #InnovationEnthusiast 🤖
