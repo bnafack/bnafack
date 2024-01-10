@@ -14,7 +14,24 @@ Let's connect and collaborate on projects that harness the power of data and mac
 ## Get in Touch
 - 📧 Email: bauricenafack@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/baurice-nafack/ 
-- 🐦 Twitter: 
+- 🐦 Twitter:
+
+## Side projects
+### [Speech-to-Text Model Integration](https://github.com/Sueza-project/speechci)
+User Interface Development: Developed an intuitive user interface (UI) using
+the React framework to collect audio input from users within the UI.
+
+•API Communication: Established seamless communication with the back-end through
+RESTful APIs to facilitate the translation process
+
+.Speech-to-Text Model Integration: Integrated and deployed a fine-tuned speech-to-text
+model on Linode cloud computing infrastructure.
+
+• Cloud Deployment through Kubernetes: Employed Kubernetes cluster on Linode for
+efficient deployment of the developed application and its components.
+
+•Continuous Integration Setup: Implemented a robust continuous integration pipeline
+using Jenkins to streamline development, testing, and deployment processes.
 
 # Tags
 #MachineLearning #DataEngineering #MLOps #InnovationEnthusiast 🤖
