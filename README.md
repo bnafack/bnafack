@@ -18,10 +18,10 @@ Let's connect and collaborate on projects that harness the power of data and mac
 
 ## Side projects
 ### [Speech-to-Text Model Integration](https://github.com/Sueza-project/speechci)
-User Interface Development: Developed an intuitive user interface (UI) using
+• User Interface Development: Developed an intuitive user interface (UI) using
 the React framework to collect audio input from users within the UI.
 
-•API Communication: Established seamless communication with the back-end through
+• API Communication: Established seamless communication with the back-end through
 RESTful APIs to facilitate the translation process
 
 .Speech-to-Text Model Integration: Integrated and deployed a fine-tuned speech-to-text
